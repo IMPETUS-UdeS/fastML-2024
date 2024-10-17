@@ -24,7 +24,7 @@ The example notebooks hold quick tutorials of the different splitting methods (s
 The input and neuron split notebooks currently only show manual splitting but we're working on automating that process.
 
 ## Powerpoint presentation
-You can find the slides of this presentation in this repository
+You can find the slides of this presentation at the conference [link](https://indico.cern.ch/event/1387540/).
 
 ## References
 - [rule4ml](https://github.com/IMPETUS-UdeS/rule4ml)
